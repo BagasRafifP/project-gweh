@@ -76,7 +76,7 @@ def hello_world():
   </section>
 
   <footer class="py-6 text-center text-slate-500 text-sm bg-slate-950">
-    © 2026 Bagas. All rights reserved.
+    © 2026 Bagas. All rights reserved :).
   </footer>
 
 </body>
